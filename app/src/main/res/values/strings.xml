@@ -2,5 +2,8 @@
     <string name="app_name">calculador_de_gorjeta</string>
     <string name="calcular_gorjeta">Calcular Gorjeta</string>
     <string name="valor_da_conta">Valor da Conta</string>
-    <string name="valor_da_gorjeta">Valor da Gorjeta: %1$s</string>
+    <string name="valor_da_gorjeta_text">Valor da Gorjeta: %1$s</string>
+    <string name="valor_da_gorjeta_input">Valor da Gorjeta</string>
+    <string name="porcentagem_gorjeta">% da Gorjeta</string>
+    <string name="arredondar_gorjeta">arredondar gorjeta?</string>
 </resources>
